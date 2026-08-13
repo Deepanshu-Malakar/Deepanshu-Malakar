@@ -6,12 +6,12 @@
 
 
 # 💫 About Me:
-<img align="right" src="coding.gif" width=300 alt="coding"> 
+<!-- <img align="right" src="coding.gif" width=300 alt="coding">  -->
 - 🌱 I’m currently learning <b>react js and DSA</b> <br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/Deepanshu-Malakar](https://github.com/Deepanshu-Malakar)<br><br>
 - 👀 I’m interested in **UI design** and **web developement** both front end and back end<br><br>
 - I am very passionate at coding and its my vision to become a great ui developer
-<br><br><br>
+<br><br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepanshu_malakar_khandwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-malakar-4bb3612b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepanshucontacts44@gmail.com) 
