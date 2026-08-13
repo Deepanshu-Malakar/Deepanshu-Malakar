@@ -6,7 +6,6 @@
 
 
 # 💫 About Me:
-<!-- <img align="right" src="coding.gif" width=300 alt="coding">  -->
 - 🌱 I’m currently learning <b>react js and DSA</b> <br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/Deepanshu-Malakar](https://github.com/Deepanshu-Malakar)<br><br>
 - 👀 I’m interested in **UI design** and **web developement** both front end and back end<br><br>
