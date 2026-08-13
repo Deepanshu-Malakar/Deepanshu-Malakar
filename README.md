@@ -1,12 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Deepanshu-Malakar)
 <h1 align="center">Hi 👋, I'm Deepanshu Malakar</h1>
 <h3 align="center"> B.Tech CSE student at IIIT Kurnool India</h3>
-<img align="right" src="coding.gif" width=400 alt="coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu-malakar&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu-malakar" /> </p>
-<br>
+
 
 # 💫 About Me:
-- 🌱 I’m currently learning **react js and DSA**<br><br>
+<img align="right" src="coding.gif" width=300 alt="coding"> 
+- 🌱 I’m currently learning <b>react js and DSA</b> <br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/Deepanshu-Malakar](https://github.com/Deepanshu-Malakar)<br><br>
 - 👀 I’m interested in **UI design** and **web developement** both front end and back end<br><br>
 - I am very passionate at coding and its my vision to become a great ui developer
