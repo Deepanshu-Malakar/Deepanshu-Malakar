@@ -10,7 +10,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Deepanshu-Malakar&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Deepanshu-Malakar&color=006090&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Deepanshu-Malakar?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </p>
 
